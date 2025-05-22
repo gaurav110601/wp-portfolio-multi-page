@@ -36,13 +36,6 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 
 <br>
 
-### Setup Instructions 
-1. setup wordpress and its database
-2. import/install plugin, all-in-one wpmigration unlimited extention
-3. import the project (.wpress) file through all-in-one wpmigration
-
-<br>
-
 ### Credintials
 userename: admin <br>
 password: gaurav116 <br>
