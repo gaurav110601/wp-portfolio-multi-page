@@ -36,12 +36,6 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 
 <br>
 
-### Credintials
-userename: admin <br>
-password: gaurav116 <br>
-
-<br>
-
 ### Sample Snapshots
 
 Homepage:
